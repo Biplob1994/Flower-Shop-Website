@@ -134,7 +134,7 @@ Hot deal section end
 perfect gift section starts
 .................... */
 .perfect-gift-container {
-  background-image: url("/image/flower-bg.jpg");
+  background-image: url("image/flower-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
