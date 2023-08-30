@@ -201,7 +201,7 @@ instagram section end
 get the latest deal style start
 .................... */
 .get-latest-deal {
-  background-image: url("/image/Rectangle9.png");
+  background-image: url("image/Rectangle9.png");
   text-align: center;
   padding: 50px 0;
   margin: auto;
