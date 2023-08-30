@@ -1,0 +1,217 @@
+body {
+  margin: 0 auto;
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+/*..... ................
+Header section styles start
+.................... */
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e554731f;
+  margin-bottom: 50px;
+}
+.header-content {
+  margin: 0 150px;
+  width: 60%;
+}
+.header-content-title {
+  font-size: 42px;
+  font-weight: 800;
+}
+.btn-primary {
+  border: 0;
+  border-radius: 5px;
+  background-color: #e55473;
+  color: white;
+  padding: 10px 20px;
+}
+.header-image > img {
+  width: 90%;
+}
+/*..... ................
+Header section styles end
+.................... */
+
+/*..... ................
+feature flower section styles start
+.................... */
+.feature-flower-container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.feature-flower-img-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.feature-flower-content {
+  text-align: center;
+}
+#feature-bg-1 img {
+  background-color: pink;
+  width: 200px;
+  height: 300px;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+  padding: 40px 40px 0;
+}
+
+#feature-bg-2 img {
+  background-color: azure;
+  width: 200px;
+  height: 300px;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+  padding: 40px 40px 0;
+}
+#feature-bg-3 img {
+  background-color: gainsboro;
+  width: 200px;
+  height: 300px;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+  padding: 40px 40px 0;
+}
+
+.feature-image-content {
+  text-align: center;
+  padding: 15px;
+}
+/*..... ................
+feature flower section styles start  end
+.................... */
+
+/*..... ................
+support section styles start
+.................... */
+
+.support {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #2727271b;
+  padding: 30px;
+}
+
+.support-content {
+  text-align: center;
+}
+
+/*..... ................
+support section styles end
+.................... */
+
+/*..... ................
+Hot deal section starts
+.................... */
+.hot-deal {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #e554731f;
+  margin: 50px 0;
+}
+/*..... ................
+Hot deal section end
+.................... */
+
+/*..... ................
+instagram section starts
+.................... */
+.instagram-container {
+  margin: auto;
+  width: 80%;
+}
+
+.instagram-content {
+  text-align: center;
+}
+.instagram-img {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.instagram-img img {
+  width: 25%;
+  padding: 10px;
+}
+/*..... ................
+instagram section end
+.................... */
+
+/*..... ................
+get the latest deal style start
+.................... */
+.get-latest-deal {
+  background-image: url("/image/Rectangle9.png");
+  text-align: center;
+  padding: 50px 0;
+  margin: auto;
+  width: 80%;
+}
+#input-email {
+  border: 0;
+  width: 40%;
+  border-radius: 5px;
+  padding: 10px 50px;
+  margin-right: 10px;
+}
+
+/*..... ................
+help center style start
+.................... */
+
+.help-center-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(109, 5, 22);
+  margin-top: 50px;
+  color: white;
+}
+.help-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fa-truck {
+  font-size: 30px;
+}
+.fa-cart-shopping {
+  font-size: 30px;
+}
+.fa-message {
+  font-size: 30px;
+}
+.fa-handshake-angle {
+  font-size: 30px;
+}
+.help-center-content {
+  padding-left: 20px;
+}
+/*..... ................
+help center style end
+.................... */
+
+/*..... ................
+footer section starts
+.................... */
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+
+footer span {
+  color: #e55473;
+}
